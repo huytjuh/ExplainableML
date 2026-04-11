@@ -10,7 +10,7 @@ install:`
 
 # Define the target to run the project
 run:
-	poetry run python src/main_ts.py
+	poetry run python src/main_cluster.py
 
 # Define the target to clean the build directory
 clean:
