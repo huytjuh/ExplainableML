@@ -1,0 +1,293 @@
+[33mcommit b43b209569553b91be80bef3bc47081ad6b7d744[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 170f1f0 19ac1c0
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Apr 14 20:20:19 2026 +0200
+
+    resolve merge conflict
+
+[33mcommit 170f1f046ce43ae6ad7c6bc0c9050354c7b32027[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Apr 14 20:16:13 2026 +0200
+
+    added framework
+
+[33mcommit 19ac1c0b568b3fbe961d1a7d9904b8272c460efc[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sat Apr 11 13:13:16 2026 +0200
+
+    add PCA
+
+[33mcommit 1baa09b28423128b238b411fb8000f9a3709375f[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Thu Mar 26 03:01:09 2026 +0100
+
+    added new cluster
+
+[33mcommit 655157f12bacb6a1fb6a9939113d07070c0ada12[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Thu Mar 26 02:08:47 2026 +0100
+
+    added unsupervised learning
+
+[33mcommit 3d8cada894ac6a070ed98f11c2627a2e1f987ea5[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sat Mar 14 15:20:16 2026 +0100
+
+    added timeseries folder
+
+[33mcommit 2a1888b4173fd89df982845bdd99c94b44af04a1[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sat Mar 14 00:20:38 2026 +0100
+
+    fixed backward propagation lstm
+
+[33mcommit 932655f225710bb599bd17389a0fd6957596283d[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Fri Mar 13 23:26:11 2026 +0100
+
+    finished backward propagation lstm
+
+[33mcommit b6e508bbfed11f08f79ead24541ae5bfe0c68fe4[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Thu Mar 12 23:03:01 2026 +0100
+
+    added backward propagation
+
+[33mcommit 8f238d0b90e3162f4d36e0d94c074456f357db46[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Wed Mar 11 23:49:13 2026 +0100
+
+    updated lstm
+
+[33mcommit 1801ec29567717bdb4d7b43da3ede8ada01424f5[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sat Feb 28 12:04:03 2026 +0100
+
+    added forward propagation for lstm
+
+[33mcommit cfe6afb1f784595a3b4dd20d565c63241adcf395[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sat Feb 21 15:50:48 2026 +0100
+
+     added makefile and poetry environment
+
+[33mcommit 3d91e49a8bd8bb25cc7c31b4295755088e2e636c[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sun Feb 8 22:44:59 2026 +0100
+
+    added lstm
+
+[33mcommit c34df1811d39caa2bdd5f729167569c334f74dec[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sat Jan 31 16:14:14 2026 +0100
+
+    added bbptt for nn
+
+[33mcommit 7046d7a6d06dfa166157146da46750b4180a3ba0[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Tue Jan 27 23:36:30 2026 +0100
+
+    added final changes
+
+[33mcommit d9087c0b1256aeb166caf21bb6a696b27fbd03a6[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Tue Jan 27 23:03:18 2026 +0100
+
+    finished forward propagation rnn
+
+[33mcommit 72895f2c4a3411483d586a729b7de04919c9f168[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Tue Jan 27 22:10:16 2026 +0100
+
+    put x_seq outside class
+
+[33mcommit a6f31540c092d858f955895a2d3801d56c451b26[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Sun Jan 25 17:26:51 2026 +0100
+
+    update main_ts.py
+
+[33mcommit 5afd24b87aff3f59a0ce0b262efdcb53041f5314[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sat Jan 24 17:30:29 2026 +0100
+
+    create sequence timeseries
+
+[33mcommit 8ac0e0ef23cd2d2290baf37ca340929aa13fd2c0[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sat Jan 24 16:15:41 2026 +0100
+
+    added rnn forward propagation
+
+[33mcommit 0708f133cac210969968298a4ae2bbf2df0768b1[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Sun Jan 18 21:22:21 2026 +0100
+
+    added rnn initialization
+
+[33mcommit b0f433691f318a1ea4ab3d50c863cc8bd4378838[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Thu Jan 15 23:22:28 2026 +0100
+
+    added rnn
+
+[33mcommit 10cbe8e5c95773e153b2910cf4058e10dd64a5fd[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Wed Jan 14 22:28:13 2026 +0100
+
+    added rnn
+
+[33mcommit ec5ac878667dc0bad685fafdd44141615329fff1[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Jan 13 22:48:43 2026 +0100
+
+    added cnn
+
+[33mcommit aef83d51f5fb843f95d92fe5e3b2fa7fce75556c[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Sat Jan 3 19:03:53 2026 +0100
+
+    finished neuralnetwork class
+
+[33mcommit 33538be7142514f1baa96265d4dc97a8a4abf725[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Fri Jan 2 23:14:32 2026 +0100
+
+    added forward propagation
+
+[33mcommit 337d1405b7d15bafe8d278ca5a88e40c937d0dde[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Fri Jan 2 20:39:00 2026 +0100
+
+    added neuralnetwork|
+
+[33mcommit 29f8acb3c407ebc7732eacd43ae5055191e70c0f[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Thu Jan 1 23:05:06 2026 +0100
+
+    added perceptron class
+
+[33mcommit b69f157487f93bb4f8ba6d91c523fd5862a4817c[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Wed Dec 31 18:07:36 2025 +0100
+
+    reordered python files
+
+[33mcommit 3504c1acf7e2b190bc535f6e4cfb776c5900ad3d[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Dec 30 19:16:15 2025 +0100
+
+    added logistic regression
+
+[33mcommit 6d86e4294861d351e348d549097f9122e79e0b3d[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Dec 30 00:26:05 2025 +0100
+
+    added naive bayes
+
+[33mcommit 6e09ce6bcde4ffc4dde835e03230b80c5ad5b121[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Mon Dec 29 20:54:17 2025 +0100
+
+    added svm
+
+[33mcommit c04d9a7f1702aee49f5026af273f0631503f0985[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Dec 23 23:36:44 2025 +0100
+
+    add primal and dual framework
+
+[33mcommit b46a9304da08c008997b0e754d6474db2588841c[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Thu Dec 18 23:42:38 2025 +0100
+
+    added kernel to SVM
+
+[33mcommit cdc48152bc232a7131c50f8bf9f67412e8e7c698[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Wed Dec 17 22:18:20 2025 +0100
+
+    push xgboost changes
+
+[33mcommit c4139b69502cf051fa9b4f5b2aef1c0c87f58c84[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Sun Dec 14 22:42:24 2025 +0100
+
+    added similarity residuals
+
+[33mcommit 8a86b30b461ea2ddb698fad72f779f2e7db8d322[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Dec 9 22:57:56 2025 +0100
+
+    added xgboost|
+
+[33mcommit 39b96a3fa45755694da388e734ed14ae697d5f66[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Dec 9 21:02:02 2025 +0100
+
+    add latest change to decision tree|
+
+[33mcommit 1fb517df56003ced6d493a47f7359a2f173eee4f[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Tue Dec 9 00:58:19 2025 +0100
+
+    finished build_forest in adaboost
+
+[33mcommit efc4c17896b8e449ceadb789e55d34611a2a8969[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Mon Dec 8 22:26:04 2025 +0100
+
+    updated adaboost
+
+[33mcommit b27ab855f595504c3ac5d1f5b830229573f729d6[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sun Dec 7 14:25:27 2025 +0100
+
+    adaboost added
+
+[33mcommit 6df1ff40aff2514be8713ee6e8f3cf336497e512[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Thu Dec 4 12:47:03 2025 +0100
+
+    added prediction to random forest
+
+[33mcommit a33ab75b15392ba176a061bd3377392c54cc360b[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Mon Dec 1 19:39:05 2025 +0100
+
+    added random forest build tree
+
+[33mcommit b99ce9f90c947b90f4a328b175866a00eebc0203[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Mon Dec 1 15:20:15 2025 +0100
+
+    finalize decision tree and start with random forest
+
+[33mcommit 289142262aec5551c0e3ccf5b350f4948f736aae[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Mon Dec 1 13:55:12 2025 +0100
+
+    added decision tree predictions
+
+[33mcommit 83fadf7bea385ca20bcc68da4232c61a8f6ec3d0[m
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Mon Dec 1 11:02:17 2025 +0100
+
+    finalized find_best_split_criterion
+
+[33mcommit b9fd29165e502df17afe8a9cf593a1a4dcb05395[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Sun Nov 30 18:11:37 2025 +0100
+
+    edited calculate_candidate
+
+[33mcommit 9fb5f91025da88a3802d691e7df948e25ff96c8a[m
+Author: huy.huynh <huytjuh@outlook.com>
+Date:   Sun Nov 30 18:04:32 2025 +0100
+
+    added calculate_candidate
+
+[33mcommit 38bbb2500b0609b8c5f64ac30d99f353631f8496[m
+Merge: 47ea676 3bfdeda
+Author: huy huynh <huytjuh@outlook.com>
+Date:   Sun 
